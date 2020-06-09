@@ -112,11 +112,11 @@ Finally, two supervised learning classifiers were used to attempt to build a cla
 
 ## Contents
 **Code**
-- [Technical Notebook](.code/capstone-technical-notebook.ipynb)
+- [Technical Notebook](./code/capstone-technical-notebook.ipynb)
 
 **Tableau**
-- [Tableau Workbook](.tableau/hbp-database.twb)
-- [Saved Tableau Visualization Images](.tableau/)
+- [Tableau Workbook](./tableau/hbp-database.twb)
+- [Saved Tableau Visualization Images](./tableau/)
 
 **Report**
 - [Capstone Presentation](./report/Typing%20the%20Open%20Source%20HBP%20Database%20-%20Presentation%20version.pdf)
