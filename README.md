@@ -1,4 +1,4 @@
-# Project 2: Predicting Sale Prices in Ames Housing Dataset
+# CAPSTONE PROJECT: SEGMENTING THE OPEN SOURCE HIT BY PITCH DATABASE
 
 ## Data Science Problem
 
@@ -116,9 +116,10 @@ Finally, two supervised learning classifiers were used to attempt to build a cla
 
 **Tableau**
 - [Tableau Workbook](.tableau/hbp-database.twb)
+- [Saved Tableau Visualization Images](.tableau/)
 
 **Report**
-- [Capstone Presentation](./report/Typing%20the%20Open%20Source%20HBP%20Database%20-%20v01.pdf)
+- [Capstone Presentation](./report/Typing%20the%20Open%20Source%20HBP%20Database%20-%20Presentation%20version.pdf)
 
 
 ## Conclusions and Next Steps
